@@ -2,6 +2,8 @@ function res = diffeqs(~, input)
     theta = input(1);
     omega = input(2);
     
+    %obnoxious comment
+    
     length = 2;   % m
     r = length/2; % m
     F = 2; % N
